@@ -262,7 +262,7 @@ list.lua = {
 
 list.python = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-python",
+    url = "https://github.com/all3n/tree-sitter-python",
     files = { "src/parser.c", "src/scanner.cc" },
   },
   maintainers = { "@stsewd", "@theHamsta" },
@@ -611,7 +611,7 @@ list.hcl = {
 
 list.markdown = {
   install_info = {
-    url = "https://github.com/MDeiml/tree-sitter-markdown",
+    url = "https://github.com/all3n/tree-sitter-markdown",
     location = "tree-sitter-markdown",
     files = { "src/parser.c", "src/scanner.cc" },
     branch = "split_parser",
@@ -623,7 +623,7 @@ list.markdown = {
 
 list.markdown_inline = {
   install_info = {
-    url = "https://github.com/MDeiml/tree-sitter-markdown",
+    url = "https://github.com/all3n/tree-sitter-markdown",
     location = "tree-sitter-markdown-inline",
     files = { "src/parser.c", "src/scanner.cc" },
     branch = "split_parser",
