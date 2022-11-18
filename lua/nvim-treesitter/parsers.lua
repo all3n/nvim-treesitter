@@ -545,7 +545,7 @@ list.todotxt = {
 
 list.typescript = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-typescript",
+    url = "https://github.com/all3n/tree-sitter-typescript",
     files = { "src/parser.c", "src/scanner.c" },
     location = "typescript",
     generate_requires_npm = true,
@@ -555,7 +555,7 @@ list.typescript = {
 
 list.tsx = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-typescript",
+    url = "https://github.com/all3n/tree-sitter-typescript",
     files = { "src/parser.c", "src/scanner.c" },
     location = "tsx",
     generate_requires_npm = true,
