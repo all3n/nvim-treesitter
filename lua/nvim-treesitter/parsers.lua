@@ -112,7 +112,7 @@ list.scheme = {
 
 list.javascript = {
   install_info = {
-    url = "https://github.com/tree-sitter/tree-sitter-javascript",
+    url = "https://github.com/all3n/tree-sitter-javascript",
     files = { "src/parser.c", "src/scanner.c" },
   },
   maintainers = { "@steelsojka" },
